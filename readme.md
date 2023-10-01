@@ -1,6 +1,6 @@
-# Project Title
+# HT2023 DT084G: Assigment 3
 
-This repository contains the code for my task/project. The purpose of this project is to test some basic git(hub) functionality
+This repository contains the code for my task/project. The purpose of this project is mainly just to try some basic git(hub) functionality.
 
 ## Example Functions
 
